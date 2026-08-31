@@ -1,0 +1,9 @@
+node_modules/
+mobile/node_modules/
+.npm-cache/
+.electron-cache/
+.electron-builder-cache/
+dist/
+.env
+mobile/.expo/
+npm-debug.log*
